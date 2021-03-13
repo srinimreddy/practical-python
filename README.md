@@ -129,3 +129,4 @@ Bug reports are appreciated and may be filed through the
 Pull requests are not accepted except by invitation. Please file an issue first.
 
 ### New training branch created
+Stage and commit changes from VSCODE
